@@ -23,3 +23,5 @@ Peddy is a web-based pet adoption platform that connects families with pets in n
 ## Getting Started
 
 To get started with the Peddy project, clone the repository and open `index.html` in your preferred web browser. Make sure to have a stable internet connection to load external resources and APIs.
+## Live Link 
+https://pet-web-omega.vercel.app/
